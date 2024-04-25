@@ -1,0 +1,37 @@
+:root
+{
+    --maincolor :#3D2645;
+}
+
+.back{
+    /* background: linear-gradient(rgba(0,0,0,0.75)50%,rgba(0,0,0,0.75)50%), url(images/beauty1.jpg) */
+    background-image: url(images/beauty1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(72, 68, 68);
+    color: aliceblue;
+    font-size: larger;
+}
+
+.about-head {
+    padding: 20px;
+    background-color: var(--maincolor);
+    color: #ecb2f5;
+    margin-bottom: 10px;
+}
+.sub-heading {
+    color: #ecb2f5;
+    padding: 10px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    margin-right: 80vw;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+.blur
+{
+   background-color: rgba(0, 0, 0, 0.27);
+   margin: 10px 20px;
+   padding: 20px;
+   border-radius: 20px;
+}
