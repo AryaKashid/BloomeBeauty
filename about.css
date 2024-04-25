@@ -5,7 +5,7 @@
 
 .back{
     /* background: linear-gradient(rgba(0,0,0,0.75)50%,rgba(0,0,0,0.75)50%), url(images/beauty1.jpg) */
-    background-image: url(images/beauty1.jpg);
+    background-image: url(beauty1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgb(72, 68, 68);
